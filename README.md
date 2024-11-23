@@ -21,7 +21,5 @@ Skills: C/C++/Java/HTML/CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahriarTWS&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ShahriarTWS/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ShahriarTWS)  
 
