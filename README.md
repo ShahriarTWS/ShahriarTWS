@@ -1,18 +1,18 @@
-![I am CSE student and android app developer](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
+![I am CSE student and developer](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 <h1 align="center">Hi 👋, I'm Shahriar Nazim Joy</h1>
-<h3 align="center">I am a Computer Science Student and a Competitive Programmer as well as app developer.</h3>
+<h3 align="center">I am a Computer Science Student and a Competitive Programmer as well as developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriartws&label=Profile%20views&color=0e75b6&style=flat" alt="shahriartws" /> </p>
 
 <p align="left"> <a href="https://twitter.com/snjoy420" target="blank"><img src="https://img.shields.io/twitter/follow/snjoy420?logo=twitter&style=for-the-badge" alt="snjoy420" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Java, MySQL, DSA**
+- 🌱 I’m currently learning **C++, HTML, CSS, JavaScript**
 
-- 💬 Ask me about **Competitive Programming and app development.**
+- 💬 Ask me about **Competitive Programming and web development.**
 
 - 📫 How to reach me **address.shahriar@gmail.com**
 
