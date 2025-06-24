@@ -18,6 +18,14 @@ Hi there! I'm **Shahriar Nazim Joy**, a passionate Computer Science student and 
 
 If you want to know more, feel free to connect. Outside of coding, I also explore problem-solving on competitive platforms and occasionally design UI components.
 
+- 🔭 I’m currently working on **Courier Management Project**
+
+- 🌱 I’m currently learning **React, Express, MongoDB**
+
+- 👯 I’m looking to collaborate on **Open source project**
+
+- 💬 Ask me about **Frontend web development**
+
 🔗 [[Check my web projects]](https://github.com/shahriartws)
 
 ---
@@ -95,5 +103,8 @@ Feel free to reach out or connect on my socials:
 - 📧 **Email**: [shahriar6874@gmail.com](mailto:shahriar6874@gmail.com)
 - 🔗 **LinkedIn**: [Click Here](https://linkedin.com/in/snjoy420)
 - 🌐 **Facebook**: [Click Here](https://fb.com/snjoy.420)
+- 🧠 **HackerRank**: [Click Here](https://www.hackerrank.com/address_shahriar)
+- 💻 **LeetCode**: [Click Here](https://www.leetcode.com/shahriarvu)
+- ⚡ **Codeforces**: [Click Here](https://codeforces.com/profile/shahriar.vu)
 
 Let's collaborate and build something amazing together!
