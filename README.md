@@ -79,10 +79,10 @@ If you want to know more, feel free to connect. Outside of coding, I also explor
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriartws&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=shahriartws&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=shahriartws&theme=tokyonight" alt="GitHub Streak"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=shahriartws&theme=tokyonight" alt="GitHub Streak"/> -->
 
 </p>
 
