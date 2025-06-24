@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Shahriar Nazim Joy</h1>
-<h3 align="center">💻 CSE Student | 🌐 Full Stack Web Developer</h3>
+<h3 align="center">💻 CSE Student | 🌐 Frontend Web Developer</h3>
 
 <p align="center">
   📍 Rajshahi, Bangladesh &nbsp; | &nbsp; 📧 shahriar6874@gmail.com
