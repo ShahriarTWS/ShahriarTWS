@@ -7,7 +7,7 @@
 <h3 align="center">💻 CSE Student | 🌐 Full Stack Web Developer</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 shahriar6874@gmail.com
+  📍 Rajshahi, Bangladesh &nbsp; | &nbsp; 📧 shahriar6874@gmail.com
 </p>
 
 ---
