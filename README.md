@@ -10,6 +10,9 @@
   📍 Rajshahi, Bangladesh &nbsp; | &nbsp; 📧 shahriar6874@gmail.com
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shahriartws&label=Profile%20views&color=0e75b6&style=flat-square" alt="shahriartws" /> </p>
+
+
 ---
 
 ## 🧠 About Me
@@ -27,6 +30,10 @@ If you want to know more, feel free to connect. Outside of coding, I also explor
 - 💬 Ask me about **Frontend web development**
 
 🔗 [[Check my portfolio]](https://shahriar-dev.web.app/)
+
+---
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShahriarTWS&theme=react" alt="GitHub Streak" /></a>
 
 ---
 
@@ -108,3 +115,6 @@ Feel free to reach out or connect on my socials:
 - ⚡ **Codeforces**: [Click Here](https://codeforces.com/profile/shahriar.vu)
 
 Let's collaborate and build something amazing together!
+
+---
+[![](https://visitcount.itsvg.in/api?id=ShahriarTWS&icon=0&color=0)](https://visitcount.itsvg.in)
