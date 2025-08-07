@@ -116,5 +116,3 @@ Feel free to reach out or connect on my socials:
 
 Let's collaborate and build something amazing together!
 
----
-[![](https://visitcount.itsvg.in/api?id=ShahriarTWS&icon=0&color=0)](https://visitcount.itsvg.in)
