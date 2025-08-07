@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co/whh3cWmG/github-banner.png" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dwgj5fypm/image/upload/v1754575886/github__banner_jxrkun.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Shahriar Nazim Joy</h1>
@@ -18,15 +18,15 @@ Hi there! I'm **Shahriar Nazim Joy**, a passionate Computer Science student and 
 
 If you want to know more, feel free to connect. Outside of coding, I also explore problem-solving on competitive platforms and occasionally design UI components.
 
-- 🔭 I’m currently working on **Courier Management Project**
+<!-- - 🔭 I’m currently working on **Courier Management Project** -->
 
-- 🌱 I’m currently learning **React, Express, MongoDB**
+- 🌱 I’m currently learning **DSA, OOP in JAVA, MongoDB**
 
 - 👯 I’m looking to collaborate on **Open source project**
 
 - 💬 Ask me about **Frontend web development**
 
-🔗 [[Check my web projects]](https://github.com/shahriartws)
+🔗 [[Check my portfolio]](https://shahriar-dev.web.app/)
 
 ---
 
