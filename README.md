@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dwgj5fypm/image/upload/v1754575886/github__banner_jxrkun.png" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dwgj5fypm/image/upload/v1754582432/Black_and_White_Gradient_Personal_LinkedIn_Banner_sqerym.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Shahriar Nazim Joy</h1>
