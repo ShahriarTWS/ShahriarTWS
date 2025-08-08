@@ -113,7 +113,7 @@ If you want to know more, feel free to connect. Outside of coding, I also explor
 Feel free to reach out or connect on my socials:
 
 - 📧 **Email**: [shahriar6874@gmail.com](mailto:shahriar6874@gmail.com)
-- 🔗 **LinkedIn**: [Click Here](https://linkedin.com/in/snjoy420)
+- 🔗 **LinkedIn**: [Click Here](https://www.linkedin.com/in/shahriarjoy00/)
 - 🌐 **Facebook**: [Click Here](https://fb.com/snjoy.420)
 - 🧠 **HackerRank**: [Click Here](https://www.hackerrank.com/address_shahriar)
 - 💻 **LeetCode**: [Click Here](https://www.leetcode.com/shahriarvu)
