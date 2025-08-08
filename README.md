@@ -22,6 +22,7 @@ Hi there! I'm **Shahriar Nazim Joy**, a passionate Computer Science student and 
 If you want to know more, feel free to connect. Outside of coding, I also explore problem-solving on competitive platforms and occasionally design UI components.
 
 <!-- - 🔭 I’m currently working on **Courier Management Project** -->
+- 🔍 I am exploring Next.js.
 
 - 🌱 I’m currently learning **DSA, OOP in JAVA, MongoDB**
 
@@ -29,11 +30,15 @@ If you want to know more, feel free to connect. Outside of coding, I also explor
 
 - 💬 Ask me about **Frontend web development**
 
-🔗 [[Check my portfolio]](https://shahriar-dev.web.app/)
+🔗 **My Portfolio 👉🏻** [[Check my portfolio]](https://shahriar-dev.web.app/)
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShahriarTWS&theme=react" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShahriarTWS&theme=react" alt="GitHub Streak" /></a> -->
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ShahriarTWS)](https://git.io/streak-stats) -->
+
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ShahriarTWS&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ---
 
