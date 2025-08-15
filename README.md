@@ -99,10 +99,10 @@ If you want to know more, feel free to connect. Outside of coding, I also explor
 ## 📊 GitHub Stats
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriartws&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriartws&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriartws&layout=compact&theme=transparent" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriartws&show_icons=true&theme=transparent" alt="GitHub Stats" height="150"/>
   <!-- <img src="https://streak-stats.demolab.com?user=shahriartws&theme=tokyonight" alt="GitHub Streak"/> -->
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ShahriarTWS&theme=tokyonight&card_width=637" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ShahriarTWS&theme=transparent&card_width=637" alt="GitHub Streak" /></a>
 
 </p>
 
